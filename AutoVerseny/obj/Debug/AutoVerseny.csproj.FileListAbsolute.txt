@@ -1,0 +1,7 @@
+G:\C#\AutoVerseny\bin\Debug\AutoVerseny.exe.config
+G:\C#\AutoVerseny\bin\Debug\AutoVerseny.exe
+G:\C#\AutoVerseny\bin\Debug\AutoVerseny.pdb
+G:\C#\AutoVerseny\obj\Debug\AutoVerseny.csproj.AssemblyReference.cache
+G:\C#\AutoVerseny\obj\Debug\AutoVerseny.csproj.CoreCompileInputs.cache
+G:\C#\AutoVerseny\obj\Debug\AutoVerseny.exe
+G:\C#\AutoVerseny\obj\Debug\AutoVerseny.pdb
