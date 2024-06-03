@@ -1,0 +1,7 @@
+G:\C#\Lift\obj\Debug\Lift.csproj.AssemblyReference.cache
+G:\C#\Lift\obj\Debug\Lift.csproj.CoreCompileInputs.cache
+G:\C#\Lift\bin\Debug\Lift.exe.config
+G:\C#\Lift\bin\Debug\Lift.exe
+G:\C#\Lift\bin\Debug\Lift.pdb
+G:\C#\Lift\obj\Debug\Lift.exe
+G:\C#\Lift\obj\Debug\Lift.pdb
