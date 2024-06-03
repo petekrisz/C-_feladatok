@@ -1,0 +1,7 @@
+G:\C#\Schumacher\bin\Debug\Schumacher.exe.config
+G:\C#\Schumacher\bin\Debug\Schumacher.exe
+G:\C#\Schumacher\bin\Debug\Schumacher.pdb
+G:\C#\Schumacher\obj\Debug\Schumacher.csproj.AssemblyReference.cache
+G:\C#\Schumacher\obj\Debug\Schumacher.csproj.CoreCompileInputs.cache
+G:\C#\Schumacher\obj\Debug\Schumacher.exe
+G:\C#\Schumacher\obj\Debug\Schumacher.pdb
