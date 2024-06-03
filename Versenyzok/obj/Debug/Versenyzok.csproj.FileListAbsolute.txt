@@ -1,0 +1,7 @@
+G:\C#\Versenyzok\bin\Debug\Versenyzok.exe.config
+G:\C#\Versenyzok\bin\Debug\Versenyzok.exe
+G:\C#\Versenyzok\bin\Debug\Versenyzok.pdb
+G:\C#\Versenyzok\obj\Debug\Versenyzok.csproj.AssemblyReference.cache
+G:\C#\Versenyzok\obj\Debug\Versenyzok.csproj.CoreCompileInputs.cache
+G:\C#\Versenyzok\obj\Debug\Versenyzok.exe
+G:\C#\Versenyzok\obj\Debug\Versenyzok.pdb
