@@ -1,0 +1,15 @@
+F:\C#\Berek2020\Berek2020\bin\Debug\Berek2020.exe.config
+F:\C#\Berek2020\Berek2020\bin\Debug\Berek2020.exe
+F:\C#\Berek2020\Berek2020\bin\Debug\Berek2020.pdb
+F:\C#\Berek2020\Berek2020\obj\Debug\Berek2020.csproj.AssemblyReference.cache
+F:\C#\Berek2020\Berek2020\obj\Debug\Berek2020.csproj.SuggestedBindingRedirects.cache
+F:\C#\Berek2020\Berek2020\obj\Debug\Berek2020.csproj.CoreCompileInputs.cache
+F:\C#\Berek2020\Berek2020\obj\Debug\Berek2020.exe
+F:\C#\Berek2020\Berek2020\obj\Debug\Berek2020.pdb
+G:\C#\Berek2020\Berek2020\bin\Debug\Berek2020.exe.config
+G:\C#\Berek2020\Berek2020\bin\Debug\Berek2020.exe
+G:\C#\Berek2020\Berek2020\bin\Debug\Berek2020.pdb
+G:\C#\Berek2020\Berek2020\obj\Debug\Berek2020.csproj.AssemblyReference.cache
+G:\C#\Berek2020\Berek2020\obj\Debug\Berek2020.csproj.CoreCompileInputs.cache
+G:\C#\Berek2020\Berek2020\obj\Debug\Berek2020.exe
+G:\C#\Berek2020\Berek2020\obj\Debug\Berek2020.pdb
