@@ -1,0 +1,7 @@
+E:\C#\kosar2004\bin\Debug\kosar2004.exe.config
+E:\C#\kosar2004\bin\Debug\kosar2004.exe
+E:\C#\kosar2004\bin\Debug\kosar2004.pdb
+E:\C#\kosar2004\obj\Debug\kosar2004.csproj.AssemblyReference.cache
+E:\C#\kosar2004\obj\Debug\kosar2004.csproj.CoreCompileInputs.cache
+E:\C#\kosar2004\obj\Debug\kosar2004.exe
+E:\C#\kosar2004\obj\Debug\kosar2004.pdb
