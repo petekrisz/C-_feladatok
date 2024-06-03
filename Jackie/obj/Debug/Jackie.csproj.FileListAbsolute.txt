@@ -1,0 +1,7 @@
+G:\C#\Jackie\bin\Debug\Jackie.exe.config
+G:\C#\Jackie\bin\Debug\Jackie.exe
+G:\C#\Jackie\bin\Debug\Jackie.pdb
+G:\C#\Jackie\obj\Debug\Jackie.csproj.AssemblyReference.cache
+G:\C#\Jackie\obj\Debug\Jackie.csproj.CoreCompileInputs.cache
+G:\C#\Jackie\obj\Debug\Jackie.exe
+G:\C#\Jackie\obj\Debug\Jackie.pdb
