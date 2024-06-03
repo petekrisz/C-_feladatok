@@ -1,0 +1,7 @@
+G:\C#\csudh\bin\Debug\csudh.exe.config
+G:\C#\csudh\bin\Debug\csudh.exe
+G:\C#\csudh\bin\Debug\csudh.pdb
+G:\C#\csudh\obj\Debug\csudh.csproj.AssemblyReference.cache
+G:\C#\csudh\obj\Debug\csudh.csproj.CoreCompileInputs.cache
+G:\C#\csudh\obj\Debug\csudh.exe
+G:\C#\csudh\obj\Debug\csudh.pdb
