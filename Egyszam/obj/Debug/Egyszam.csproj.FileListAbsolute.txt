@@ -1,0 +1,7 @@
+G:\C#\Egyszam\bin\Debug\Egyszam.exe.config
+G:\C#\Egyszam\bin\Debug\Egyszam.exe
+G:\C#\Egyszam\bin\Debug\Egyszam.pdb
+G:\C#\Egyszam\obj\Debug\Egyszam.csproj.AssemblyReference.cache
+G:\C#\Egyszam\obj\Debug\Egyszam.csproj.CoreCompileInputs.cache
+G:\C#\Egyszam\obj\Debug\Egyszam.exe
+G:\C#\Egyszam\obj\Debug\Egyszam.pdb
