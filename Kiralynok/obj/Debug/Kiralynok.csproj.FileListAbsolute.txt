@@ -1,0 +1,7 @@
+G:\C#\Kiralynok\bin\Debug\Kiralynok.exe.config
+G:\C#\Kiralynok\bin\Debug\Kiralynok.exe
+G:\C#\Kiralynok\bin\Debug\Kiralynok.pdb
+G:\C#\Kiralynok\obj\Debug\Kiralynok.csproj.AssemblyReference.cache
+G:\C#\Kiralynok\obj\Debug\Kiralynok.csproj.CoreCompileInputs.cache
+G:\C#\Kiralynok\obj\Debug\Kiralynok.exe
+G:\C#\Kiralynok\obj\Debug\Kiralynok.pdb
