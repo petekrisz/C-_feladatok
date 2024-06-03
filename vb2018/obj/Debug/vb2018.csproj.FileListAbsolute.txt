@@ -1,0 +1,7 @@
+G:\C#\vb2018\bin\Debug\vb2018.exe.config
+G:\C#\vb2018\bin\Debug\vb2018.exe
+G:\C#\vb2018\bin\Debug\vb2018.pdb
+G:\C#\vb2018\obj\Debug\vb2018.csproj.AssemblyReference.cache
+G:\C#\vb2018\obj\Debug\vb2018.csproj.CoreCompileInputs.cache
+G:\C#\vb2018\obj\Debug\vb2018.exe
+G:\C#\vb2018\obj\Debug\vb2018.pdb
