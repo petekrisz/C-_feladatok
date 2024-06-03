@@ -1,0 +1,8 @@
+F:\C#\helsinki1952\bin\Debug\helsinki1952.exe.config
+F:\C#\helsinki1952\bin\Debug\helsinki1952.exe
+F:\C#\helsinki1952\bin\Debug\helsinki1952.pdb
+F:\C#\helsinki1952\obj\Debug\helsinki1952.csproj.AssemblyReference.cache
+F:\C#\helsinki1952\obj\Debug\helsinki1952.csproj.SuggestedBindingRedirects.cache
+F:\C#\helsinki1952\obj\Debug\helsinki1952.csproj.CoreCompileInputs.cache
+F:\C#\helsinki1952\obj\Debug\helsinki1952.exe
+F:\C#\helsinki1952\obj\Debug\helsinki1952.pdb
