@@ -1,0 +1,8 @@
+F:\C#\Vasmegye\bin\Debug\Vasmegye.exe.config
+F:\C#\Vasmegye\bin\Debug\Vasmegye.exe
+F:\C#\Vasmegye\bin\Debug\Vasmegye.pdb
+F:\C#\Vasmegye\obj\Debug\Vasmegye.csproj.AssemblyReference.cache
+F:\C#\Vasmegye\obj\Debug\Vasmegye.csproj.SuggestedBindingRedirects.cache
+F:\C#\Vasmegye\obj\Debug\Vasmegye.csproj.CoreCompileInputs.cache
+F:\C#\Vasmegye\obj\Debug\Vasmegye.exe
+F:\C#\Vasmegye\obj\Debug\Vasmegye.pdb
