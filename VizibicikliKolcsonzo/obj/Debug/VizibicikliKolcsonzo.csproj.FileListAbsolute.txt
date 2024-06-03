@@ -1,0 +1,7 @@
+G:\C#\VizibicikliKolcsonzo\bin\Debug\VizibicikliKolcsonzo.exe.config
+G:\C#\VizibicikliKolcsonzo\bin\Debug\VizibicikliKolcsonzo.exe
+G:\C#\VizibicikliKolcsonzo\bin\Debug\VizibicikliKolcsonzo.pdb
+G:\C#\VizibicikliKolcsonzo\obj\Debug\VizibicikliKolcsonzo.csproj.AssemblyReference.cache
+G:\C#\VizibicikliKolcsonzo\obj\Debug\VizibicikliKolcsonzo.csproj.CoreCompileInputs.cache
+G:\C#\VizibicikliKolcsonzo\obj\Debug\VizibicikliKolcsonzo.exe
+G:\C#\VizibicikliKolcsonzo\obj\Debug\VizibicikliKolcsonzo.pdb
