@@ -1,0 +1,7 @@
+G:\C#\Operatorok\bin\Debug\Operatorok.exe.config
+G:\C#\Operatorok\bin\Debug\Operatorok.exe
+G:\C#\Operatorok\bin\Debug\Operatorok.pdb
+G:\C#\Operatorok\obj\Debug\Operatorok.csproj.AssemblyReference.cache
+G:\C#\Operatorok\obj\Debug\Operatorok.csproj.CoreCompileInputs.cache
+G:\C#\Operatorok\obj\Debug\Operatorok.exe
+G:\C#\Operatorok\obj\Debug\Operatorok.pdb
