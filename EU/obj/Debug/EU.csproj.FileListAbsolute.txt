@@ -1,0 +1,15 @@
+F:\PeteK\C#\EU\bin\Debug\EU.exe.config
+F:\PeteK\C#\EU\bin\Debug\EU.exe
+F:\PeteK\C#\EU\bin\Debug\EU.pdb
+F:\PeteK\C#\EU\obj\Debug\EU.csproj.AssemblyReference.cache
+F:\PeteK\C#\EU\obj\Debug\EU.csproj.SuggestedBindingRedirects.cache
+F:\PeteK\C#\EU\obj\Debug\EU.csproj.CoreCompileInputs.cache
+F:\PeteK\C#\EU\obj\Debug\EU.exe
+F:\PeteK\C#\EU\obj\Debug\EU.pdb
+E:\C#\EU\bin\Debug\EU.exe.config
+E:\C#\EU\bin\Debug\EU.exe
+E:\C#\EU\bin\Debug\EU.pdb
+E:\C#\EU\obj\Debug\EU.csproj.AssemblyReference.cache
+E:\C#\EU\obj\Debug\EU.csproj.CoreCompileInputs.cache
+E:\C#\EU\obj\Debug\EU.exe
+E:\C#\EU\obj\Debug\EU.pdb
