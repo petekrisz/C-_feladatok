@@ -1,0 +1,7 @@
+G:\C#\Kemia\bin\Debug\Kemia.exe.config
+G:\C#\Kemia\bin\Debug\Kemia.exe
+G:\C#\Kemia\bin\Debug\Kemia.pdb
+G:\C#\Kemia\obj\Debug\Kemia.csproj.AssemblyReference.cache
+G:\C#\Kemia\obj\Debug\Kemia.csproj.CoreCompileInputs.cache
+G:\C#\Kemia\obj\Debug\Kemia.exe
+G:\C#\Kemia\obj\Debug\Kemia.pdb
