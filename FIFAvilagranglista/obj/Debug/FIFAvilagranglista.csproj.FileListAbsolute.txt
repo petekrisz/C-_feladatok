@@ -1,0 +1,7 @@
+G:\C#\FIFAvilagranglista\bin\Debug\FIFAvilagranglista.exe.config
+G:\C#\FIFAvilagranglista\bin\Debug\FIFAvilagranglista.exe
+G:\C#\FIFAvilagranglista\bin\Debug\FIFAvilagranglista.pdb
+G:\C#\FIFAvilagranglista\obj\Debug\FIFAvilagranglista.csproj.AssemblyReference.cache
+G:\C#\FIFAvilagranglista\obj\Debug\FIFAvilagranglista.csproj.CoreCompileInputs.cache
+G:\C#\FIFAvilagranglista\obj\Debug\FIFAvilagranglista.exe
+G:\C#\FIFAvilagranglista\obj\Debug\FIFAvilagranglista.pdb
