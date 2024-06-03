@@ -1,0 +1,7 @@
+G:\C#\balkezesek\bin\Debug\balkezesek.exe.config
+G:\C#\balkezesek\bin\Debug\balkezesek.exe
+G:\C#\balkezesek\bin\Debug\balkezesek.pdb
+G:\C#\balkezesek\obj\Debug\balkezesek.csproj.AssemblyReference.cache
+G:\C#\balkezesek\obj\Debug\balkezesek.csproj.CoreCompileInputs.cache
+G:\C#\balkezesek\obj\Debug\balkezesek.exe
+G:\C#\balkezesek\obj\Debug\balkezesek.pdb
