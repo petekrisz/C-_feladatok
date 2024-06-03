@@ -1,0 +1,7 @@
+G:\C#\Nyelvvizsga\bin\Debug\Nyelvvizsga.exe.config
+G:\C#\Nyelvvizsga\bin\Debug\Nyelvvizsga.exe
+G:\C#\Nyelvvizsga\bin\Debug\Nyelvvizsga.pdb
+G:\C#\Nyelvvizsga\obj\Debug\Nyelvvizsga.csproj.AssemblyReference.cache
+G:\C#\Nyelvvizsga\obj\Debug\Nyelvvizsga.csproj.CoreCompileInputs.cache
+G:\C#\Nyelvvizsga\obj\Debug\Nyelvvizsga.exe
+G:\C#\Nyelvvizsga\obj\Debug\Nyelvvizsga.pdb
