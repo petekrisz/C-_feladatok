@@ -1,0 +1,7 @@
+G:\C#\Hianyzasok\bin\Debug\Hianyzasok.exe.config
+G:\C#\Hianyzasok\bin\Debug\Hianyzasok.exe
+G:\C#\Hianyzasok\bin\Debug\Hianyzasok.pdb
+G:\C#\Hianyzasok\obj\Debug\Hianyzasok.csproj.AssemblyReference.cache
+G:\C#\Hianyzasok\obj\Debug\Hianyzasok.csproj.CoreCompileInputs.cache
+G:\C#\Hianyzasok\obj\Debug\Hianyzasok.exe
+G:\C#\Hianyzasok\obj\Debug\Hianyzasok.pdb
