@@ -1,0 +1,7 @@
+G:\C#\Rendelesek2\bin\Debug\Rendelesek2.exe.config
+G:\C#\Rendelesek2\bin\Debug\Rendelesek2.exe
+G:\C#\Rendelesek2\bin\Debug\Rendelesek2.pdb
+G:\C#\Rendelesek2\obj\Debug\Rendelesek2.csproj.AssemblyReference.cache
+G:\C#\Rendelesek2\obj\Debug\Rendelesek2.csproj.CoreCompileInputs.cache
+G:\C#\Rendelesek2\obj\Debug\Rendelesek2.exe
+G:\C#\Rendelesek2\obj\Debug\Rendelesek2.pdb
