@@ -1,0 +1,7 @@
+G:\C#\Morze\bin\Debug\Morze.exe.config
+G:\C#\Morze\bin\Debug\Morze.exe
+G:\C#\Morze\bin\Debug\Morze.pdb
+G:\C#\Morze\obj\Debug\Morze.csproj.AssemblyReference.cache
+G:\C#\Morze\obj\Debug\Morze.csproj.CoreCompileInputs.cache
+G:\C#\Morze\obj\Debug\Morze.exe
+G:\C#\Morze\obj\Debug\Morze.pdb
