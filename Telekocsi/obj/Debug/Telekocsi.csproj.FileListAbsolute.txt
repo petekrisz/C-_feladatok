@@ -1,0 +1,7 @@
+G:\C#\Telekocsi\bin\Debug\Telekocsi.exe.config
+G:\C#\Telekocsi\bin\Debug\Telekocsi.exe
+G:\C#\Telekocsi\bin\Debug\Telekocsi.pdb
+G:\C#\Telekocsi\obj\Debug\Telekocsi.csproj.AssemblyReference.cache
+G:\C#\Telekocsi\obj\Debug\Telekocsi.csproj.CoreCompileInputs.cache
+G:\C#\Telekocsi\obj\Debug\Telekocsi.exe
+G:\C#\Telekocsi\obj\Debug\Telekocsi.pdb
