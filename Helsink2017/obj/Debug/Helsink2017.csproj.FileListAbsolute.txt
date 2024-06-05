@@ -1,0 +1,7 @@
+G:\C#\Helsink2017\bin\Debug\Helsink2017.exe.config
+G:\C#\Helsink2017\bin\Debug\Helsink2017.exe
+G:\C#\Helsink2017\bin\Debug\Helsink2017.pdb
+G:\C#\Helsink2017\obj\Debug\Helsink2017.csproj.AssemblyReference.cache
+G:\C#\Helsink2017\obj\Debug\Helsink2017.csproj.CoreCompileInputs.cache
+G:\C#\Helsink2017\obj\Debug\Helsink2017.exe
+G:\C#\Helsink2017\obj\Debug\Helsink2017.pdb
