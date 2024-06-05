@@ -1,0 +1,7 @@
+G:\C#\Kutyak\bin\Debug\Kutyak.exe.config
+G:\C#\Kutyak\bin\Debug\Kutyak.exe
+G:\C#\Kutyak\bin\Debug\Kutyak.pdb
+G:\C#\Kutyak\obj\Debug\Kutyak.csproj.AssemblyReference.cache
+G:\C#\Kutyak\obj\Debug\Kutyak.csproj.CoreCompileInputs.cache
+G:\C#\Kutyak\obj\Debug\Kutyak.exe
+G:\C#\Kutyak\obj\Debug\Kutyak.pdb
